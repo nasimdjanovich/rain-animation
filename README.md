@@ -1,7 +1,7 @@
 # rain-animation
 Rain Animation using HTML, CSS and JavaScript
 
-Website link: https://karimjans-portfolio.netlify.app
+Website link: https://rain-animation.netlify.app
 
 Telegram: https://t.me/karimjan_webdev
 
